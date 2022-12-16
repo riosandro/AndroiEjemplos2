@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Llamadas y Mensages</string>
+    <string name="botonllamar">LLAMAR</string>
+    <string name="mensage">ENVIAR</string>
+</resources>

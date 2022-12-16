@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Let\'s Chat</string>
+    <string name="contactos">CONTACTOS</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="mensage">mensage</string>
+    <string name="mensagemostrar">No se encontraron registros</string>
+</resources>

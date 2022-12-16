@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chatiemos</string>
+    <string name="hintmensage">MENSAGE</string>
+    <string name="Bcontacto">CONTACTOS</string>
+    <string name="benviar">ENVIAR</string>
+    <string name="registrovasio">No se encontraron registros</string>
+</resources>

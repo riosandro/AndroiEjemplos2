@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Detector de Gay</string>
+    <string name="NAME">NOMBRE</string>
+    <string name="ANALIZAR">ANALIZAR</string>
+    <string name="opciones">OPCIONES</string>
+    <string name="borrar">BORRAR</string>
+    <string name="Btportela">PORTELA</string>
+    <string name="portela">Peligro, peligro, se aproxima un gey. Nombre, portela quintero alexander, alias,
+    la barvi, gustos, las pasarelas y los cosmeticos, deseos cambiarce de sexo cuantdo se valla del proyecto,
+        y trabajar en la 19 de bogota.</string>
+    <string name="Btfuentes">FUENTEZ</string>
+    <string name="fuentez">Peligro, peligro, se aproxima un gey. Nombre, Fuentez de leon, Alias, Ajo podrido, Nacionalidad,\n
+    Panameño, Gustos, Hombres fuertes </string>
+    <string name="Btdiaz">DIAZ</string>
+    <string name="Btquevin">QUEVIN</string>
+    <string name="Btorocu">OROCU</string>
+    <string name="Btalfonso">ALFONSO</string>
+    <string name="Btvargas">VARGAS</string>
+    <string name="analiz">Peligro, peligro, se acerca un gey. Nombre + x + Alegence de ese gay</string>
+
+    <string-array name="opciones">
+        <item>portela</item>
+        <item>diaz</item>
+        <item>fuentez</item>
+        <item>quebin</item>
+        <item>orocu</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Just Hangman Deluxe</string>
+    <string name="inicio">Bienvenido!</string>
+    <string name="bInicio">ENTRAR</string>
+    <string name="animals">Animales</string>
+    <string name="paises">Paises</string>
+    <string name="salud">Salud</string>
+    <string name="universo">Universo</string>
+    <string name="cuerpohu">CuerpoHu</string>
+    <string name="vehiculos">Vehiculos</string>
+    <string name="dialogAnimales">Has escogido la categoria Animales.\n Esto quiere decir que todas las palabras seran acerca de animales</string>
+    <string name="dialogPaises">Has escogido la categoria Paises.\n Esto quiere decir que todas las palabras seran acerca de Paises</string>
+    <string name="dialogsalud">Has escogido la categoria Salud.\n Esto quiere decir que todas las palabras seran acerca de Salud</string>
+    <string name="dialogUniver">Has escogido la categoria Universo.\n Esto quiere decir que todas las palabras seran acerca de el Universo</string>
+    <string name="dialogVehic">Has escogido la categoria Vehiculos.\n Esto quiere decir que todas las palabras seran acerca de Vehiculos</string>
+    <string name="dialogCuerpoH">Has escogido la categoria Cuerpo Humano.\n Esto quiere decir que todas las palabras seran acerca de el Cuerpo Humano</string>
+    <string name="categorias">Escoge una categoria</string>
+    <string name="Baceptartar">ACEPTAR</string>
+    <string name="Bcancelar">CANCELAR</string>
+    <string name="iniciojuego">InicioJuego</string>
+</resources>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name= "p50">
+        FABRI: BELGA\n
+        PaTENTE: AMERICANA\n
+        CALIBRE: 0.50- 12.7X99MM\n
+        PESO CON CANON: 36.5KG\n
+        P SIN CANON: 12.7KG\n
+        P TRIPODE M3: 13.5KG\n
+        LONGITUD CON CA: 1.65MTS\n
+        L DEL CANON: 1.14MTS\n
+        CADENCIA DE TIRO CICLICA: 450 A 600XMINU\n
+        VELOCIDAD INIC (APRX): 920M/SG\n
+        ALCANCE MAX: 6818MTS\n
+        A EFECTIVO: 1500MTS\n
+    </string>
+    <string name= "mk19">
+        MANOFACTURA: SACO\n
+        CALIBRE: 0.50- 12.7X99MM\n
+        PESO CON CANON: 72.36LBS\n
+        P MONTANTE: 10KG\n
+        P TRIPODE : 44LB\n
+        TOTAL PESO: 137LB\n
+        DIAMETRO DEL CANON: 40mm\n
+        CADENCIA DE TIRO CICLICA: 325 A 375 R/M\n
+        C DE T RAPIDA: 60R/M\n
+        C DE T SOSTENIDA: 40R/M\n
+        RADIO DE ACCION: 05 a 15mts\n
+        CINTA: 32 Y 48 ROUNDS 19-27KLG\n
+        MUNICION: M430 (HEDP)\n
+        ALCANCE MAX: 2212MTS\n
+        A EFECTIVO: 1500MTS\n
+    </string>
+      <string name= "minimi762">
+          CASA FABRICANTE: FN HERSAL\n
+          FABRICACION: BELGA\n
+          CALIBRE: 7.62\n
+          PESO CON CANON: 8.2kg\n
+          PESO DEL CANON:2.16kg\n
+          ANCHO: 128mm\n
+          LONGITUD TOTAL: 1015mm\n
+          LONGITUD DEL CANON: 421.5mm\n
+          ESTRIAS: 4 DESTRAGENAS (derecha a izquierda)\n
+          CADENCIA DE TIRO CICLICA: 720 a 840r/m, cambio de canon cada minuto.\n
+          C DE T RAPIDA: 200r/m, Rafagas de 6 a 9 cada 2 a 3 segundos\n
+          cambio de canon cada 3 minutos. \n
+          C DE T SOSTENIDA: 100r/m, Rafagas de 6 a 9 cada 4 a 5v segundos\n
+          cambio de canon cada 10 minutos.\n
+          ALCANCE MAX: 4100mts\n
+          A EFECTIVO: 1100mts\n
+    </string>
+    <string name="recon">
+        DISTANCIA:5 a 20.000mts\n
+        Tiene 6 botones tres en el lado izquierdo y tres en el lado derecho\n
+        con el numero 1 se toman las fotos, con el dos se mide la distancia\n
+        con el tres se mira a ultima coordenada tomada, con el 4 se cambia de \n
+        diurno a nocturno, con el cinco se arma el lazer y con el seis se ingresa al menu,\n
+        tanbien tiene un yostyc derecho y uno izquerdo para el zoom y para el constraste.\n
+        Para calibrarlo presionamos el boton 6 setup, dmc hand held o tripode y seguimos los pasos.\n
+        Para cambiar el sensor de temperatura lo ponemos en modo nocturno y usamos la opcion palette\n
+        que se encuentra en el menu y usamos la opcion olarity para cambiar los colores.\n
+    </string>
+    <string name="sophy">
+        DISTANCIA: 50 a 20.000mts
+        Esta conformado por 5 partes.\n
+        1: El tales - camara con 5 botones y yostyc\n
+        2: Pot 5 botones 2 yostyc mando a distancia\n
+        3: Margot, Montante resector giratorio\n
+        4: GPS\n
+        5: PC montante\n
+        Los botones del tales son los siguientes.\n
+        B1: Funcion menu.\n
+        B2:Designador lazerico / correcion de fuego.\n
+        B3:Estabilizador.\n
+        B4:Tomar fotos.\n
+        B5: Telemetro.\n
+        Yostik: menu segundario / pasar de noche a dia.\n
+        palanca de encedido y apagado.\n
+        DURACION DE LA BATERIA: 4H.\n
+        WATER PROOF: 1mt.\n
+        TEMPERATURA PARA TRABAJAR: 32grados a 55.\n
+        BORRADO GENERAL: Sepresionan los botones 3,4,5 simultaneamente.\n
+        Pasos para calibrar. Se presiona boton 1- setting- dmc- calibration y seguimos los pasos.\n
+        Para pasar el mando de el tales al pot. boton 1 - setting- setting link - cam 10 (para manejar\n
+        desde el tales),com para manejar desde el pot.\n
+        Para darle video al pot. Boton 1 - setting - video type - pasamos de oled color a \n
+        ccir color luego BW color- validation - enter.\n
+        Para corregir el fuego. apuntamos dende queremos que caiga el fuego precionamos boton 5\n
+         luego botos 2, luego apuntamos donde esta cayendo el fuedo y precionamos boton 5\n
+        por varios segundos hasta que aparesca la informacion de correcion.\n
+    </string>
+    <string name="gladiacoin">
+        USER : rivercoin11\n
+        PASSWORD: RJE3006@f\n
+    </string>
+    <string name="coinspacevargas">
+        USER: abrilca30\n
+        password: V17c85N@\n
+        ID: 349649\n
+    </string>
+     <string name="coinspacebejarano">
+        USER: gabril31\n
+        password: Bj8608@G\n
+        ID: 348409\n
+    </string>
+     <string name="coinspacepapa">
+        USER: ruger57r\n
+        password: RiNarv60\n
+        ID: 331704\n
+    </string>
+     <string name="coinspaceemeidi">
+        USER: porteva1920\n
+        password: JoDa06Ei30 \n
+        ID: 303904\n
+    </string>
+     <string name="coinspaceeimy">
+        USER: eimy06\n
+        password: EixxSf01\n
+        ID: 327567\n
+        EMAIL jose32fabian@yahoo.com\n
+    </string>
+     <string name="coinspacejose">
+        USER: josda37\n
+        password: FAjoeida113706\n
+        ID: 286730\n
+    </string>
+     <string name="localbitcoin">
+         USER: antrunsh\n
+        password: 8519faBYR\n
+    </string>
+     <string name="onelife">
+         USER: juanan37\n
+        password: Jos1924e\n
+    </string>
+</resources>

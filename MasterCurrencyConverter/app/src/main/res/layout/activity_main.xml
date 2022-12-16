@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/total"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/TextBienven"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text=" XXXXXXX XXXXXXX XXXXXXX XXXXXX XXXXX XXXXX
+        XXXX XXXXXX XXXXXX XXXXXX XXXXXX Hello World!"
+        app:layout_constraintHorizontal_bias="0.467"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/edtDE"
+        android:layout_width="38dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="72dp"
+        android:ems="10"
+        android:gravity="center"
+        android:inputType="textPersonName"
+        android:text="DE"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TextBienven" />
+
+    <TextView
+        android:id="@+id/edtA"
+        android:layout_width="48dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="72dp"
+        android:ems="10"
+        android:gravity="center"
+        android:inputType="textPersonName"
+        android:text="A"
+        app:layout_constraintEnd_toStartOf="@+id/spmoneda2"
+        app:layout_constraintStart_toEndOf="@+id/spmoneda1"
+        app:layout_constraintTop_toBottomOf="@+id/TextBienven"
+        tools:layout_editor_absoluteX="196dp" />
+
+    <Spinner
+        android:id="@+id/spmoneda1"
+        android:layout_width="117dp"
+        android:layout_height="40dp"
+
+        android:layout_marginTop="72dp"
+        app:layout_constraintEnd_toStartOf="@+id/edtA"
+        app:layout_constraintStart_toEndOf="@+id/edtDE"
+        app:layout_constraintTop_toBottomOf="@+id/TextBienven" />
+
+    <Spinner
+        android:id="@+id/spmoneda2"
+        android:layout_width="129dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="72dp"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/edtA"
+        app:layout_constraintTop_toBottomOf="@+id/TextBienven" />
+
+    <EditText
+        android:id="@+id/edtcantidadaconvert"
+        android:layout_width="145dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginBottom="85dp"
+        android:ems="10"
+        android:hint="Amount to convert"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/btconvert"
+        app:layout_constraintEnd_toStartOf="@+id/txvigual"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edtDE" />
+
+    <TextView
+        android:id="@+id/txvResultado"
+        android:layout_width="136dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginBottom="85dp"
+        android:ems="10"
+        android:hint="Total"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/btconvert"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/txvigual"
+        app:layout_constraintTop_toBottomOf="@+id/spmoneda2" />
+
+    <TextView
+        android:id="@+id/txvigual"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="72dp"
+        android:text="="
+        android:textSize="30sp"
+        app:layout_constraintEnd_toStartOf="@+id/txvResultado"
+        app:layout_constraintStart_toEndOf="@+id/edtcantidadaconvert"
+        app:layout_constraintTop_toBottomOf="@+id/edtA"
+        tools:layout_editor_absoluteX="196dp" />
+
+    <Button
+        android:id="@+id/btconvert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="324dp"
+        android:text="CONVERT"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txvigual" />
+
+
+</android.support.constraint.ConstraintLayout>

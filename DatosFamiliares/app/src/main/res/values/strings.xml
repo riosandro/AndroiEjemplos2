@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">xxxxxxxx</string>
+    <string name="Boton_Verificar">VERIFICAR</string>
+    <string name="BotBorr">BORRAR</string>
+    <string name="rios">NAME: Jose Antonio Rios Madrid\n
+                        CC: 78301425\n
+                        RH: A+\n
+                        SEX: Masculino\n
+                        DOB: 07/05/1979\n
+                        PASSPORT: AN395525\n
+                        UAE ID: 784-1979-7428470-1\n
+                        UAE VISA: 30722150\n
+                        PASSPORT EX DATE: 30/11/2021\n
+                        PASSPORT FA DATE: 01/12/2011\n
+                        UAE VISA EXP: 18/12/2019\n
+                        UAE VISA ISSUE: 19/12/2016\n
+                        UAE ID EXP: 22/04/2017\n
+                        UAE ID CARD NUM: 068280014</string>
+     <string name="emeidy">NAME: Emeidi Enith Julio Salas\n
+                        CC: 1068808926\n
+                        RH: O+\n
+                        SEXO: Femenino\n
+                        FDN: 20/09/1986\n
+                        </string>
+     <string name="fabi">NAME: Fabian Camilo Rios Bohorquez\n
+                        CC: 1038647917\n
+                        RH: O-\n
+                        SEXO: Masculino/n
+                        FDN: 21/07/2006\n
+                        </string>
+     <string name="dany">NAME: Daniel Steven Rios Julio\n
+                        CC: 10-28-900-860\n
+                        RH: A-+\n
+                        SEXO: Masculino\n
+                        FDN: 11/01/2011\n
+                        </string>
+     <string name="eimy">NAME: Eimy Sofia Rios Julio\n
+                        CC: 1.068.823.087\n
+                        RH: A-\n
+                        SEXO: Femenino\n
+                        FDN: 07/06/2016\n
+                        </string>
+
+    <string name="BottoArt">ATRAS</string>
+    <string name="name">NAME</string>
+    <string name="salir">Quieres salir de la aplicasion?</string>
+    <string name="no">NO</string>
+    <string name="si">SI</string>
+    <string name="ojo">Alerta!</string>
+    <string name="Nombr">NOMBRE</string>
+    <string name="DatosFamili">DATOS FAMILIA</string>
+    <string name="DatosP5">DATOS P-5</string>
+    <string name="INFO">XXXXXXXXXX</string>
+</resources>

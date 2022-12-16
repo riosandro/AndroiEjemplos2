@@ -1,0 +1,2 @@
+rootProject.name='Datos Familiares'
+include ':app'
